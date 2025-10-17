@@ -48,12 +48,12 @@ ie_css: "/assets/css/ie-target.css"
 
 # Menu Items
 menu:
-  - title: "Feed"
-    url: "/feed"
-  - title: "Writings"
-    url: "/writings"
+  - title: "notes"
+    url: "/notes"
+  - title: "Blog"
+    url: "/blog"
   - title: "Job Board"
-    url: "/board"
+    url: "/jobboard"
 
 # Footer
 footer:
