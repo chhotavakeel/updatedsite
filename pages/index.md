@@ -1,11 +1,13 @@
 ---
 layout: Post
 permalink: /
-title: Pranav Butalia
+title: pranav butalia
 ---
-Corporate-ish lawyer-person. 
-I specialise in energy and infrastructure contracting/procurement. Read more about me <a href="/about">here</a>.
-<h2>Now</h2>
+corporate-ish lawyer-person. 
+i specialise in energy and infrastructure contracting/procurement. read more about me <a href="/about">here</a>.
+<h2>now</h2>
 XX
-<h2>Contact</h2>
+<h2>contact</h2>
 XX
+<h2>not legal advice </h2>
+your mileage may vary
