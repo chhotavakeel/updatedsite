@@ -1,7 +1,7 @@
 ---
-title: "Writings"
+title: "blog"
 layout: Post
-permalink: /writings
+permalink: /blog
 content-type: "static"
 ---
 
