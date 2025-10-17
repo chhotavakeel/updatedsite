@@ -24,7 +24,7 @@
 # Preferences (controls template behavior)
 preferences:
   homepage:
-    enabled: true
+    enabled: false
   search:
     enabled: true
   backlinks:
@@ -36,8 +36,8 @@ preferences:
 
 # Site Configuration
 title: chhotavakeel
-heading: Pranav Butalia
-description: test
+heading:  Pranav Butalia
+description: Pranav's home on the internet
 url: "https://yoursite.com"
 baseurl: ""
 
@@ -50,10 +50,10 @@ ie_css: "/assets/css/ie-target.css"
 menu:
   - title: "notes"
     url: "/notes"
-  - title: "Blog"
+  - title: "blog"
     url: "/blog"
-  - title: "Job Board"
-    url: "/jobboard"
+  - title: "job board"
+    url: "/jboard"
 
 # Footer
 footer:
