@@ -57,9 +57,9 @@ menu:
 
 # Footer
 footer:
-  copyright: "© 2025 Pranav Butalia "
+  copyright: "© 2025 Pranav Butalia."
   credits:
-    enabled: true
+    enabled: false
     url: "/credits"
     text: "Credits"
 
