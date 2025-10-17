@@ -35,9 +35,9 @@ preferences:
     enabled: true
 
 # Site Configuration
-title: "chhotavakeel"
-heading: "Pranav Butalia"
-description: "chhotavakeel"
+title: chhotavakeel
+heading: Pranav Butalia
+description: test
 url: "https://yoursite.com"
 baseurl: ""
 
@@ -85,7 +85,7 @@ defaults:
       layout: "Post"
       content-type: "post"
       feed: "show"
-      permalink: /writings/:title/
+      permalink: /blog/:title/
 
 # Plugins
 plugins:
