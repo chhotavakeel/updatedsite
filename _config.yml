@@ -52,12 +52,12 @@ menu:
     url: "/feed"
   - title: "Writings"
     url: "/writings"
-  - title: "Jobs Board"
-    url: "/jobsboard"
+  - title: "Job Board"
+    url: "/jobboard"
 
 # Footer
 footer:
-  copyright: "© 2025 Pranav Butalia."
+  copyright: "© 2025 Pranav Butalia"
   credits:
     enabled: true
     url: "/credits"
