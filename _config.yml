@@ -53,11 +53,11 @@ menu:
   - title: "Writings"
     url: "/writings"
   - title: "Job Board"
-    url: "/jobboard"
+    url: "/board"
 
 # Footer
 footer:
-  copyright: "© 2025 Pranav Butalia"
+  copyright: "© 2025 Pranav Butalia "
   credits:
     enabled: true
     url: "/credits"
@@ -95,7 +95,7 @@ plugins:
 # Private links (for broken wiki links)
 privatelinks:
   title: "Private Note"
-  msg: "This note hasn't been published yet."
+  msg: "This note hasn't been published yet!"
 
 # Math rendering
 katex: true
