@@ -1,5 +1,5 @@
 ---
-title: "are state-owned utilities required to comply with the (indian) data protection act?"
+title: "are state utilities required to comply with the (indian) data protection act?"
 date: 2025-05-23
 tags: [ppps, data-protection]
 ---
@@ -49,10 +49,10 @@ in this context, the rules specifically exempt healthcare establishments and edu
 (d) maintenance of public order; and <br>
 (ii) for research, archival or statistical purposes. </p>
 
-<p> i see no blanket exemptions under the act for state instrumentalities delivering infrastructure services. while broad, the grounds set out for blanket exemptions above lie in well-defined contours. as such, it becomes difficult to say that state-owned utilities, in and of themselves, qualify for these exemptions. </p>
+<p> i see no blanket exemptions under the act for state instrumentalities delivering infrastructure services. while broad, the grounds set out for blanket exemptions above lie in well-defined contours. as such, it becomes difficult to say that state utilities, in and of themselves, qualify for these exemptions. </p>
 
 <p> as a matter of fact, the act expressly treats processing of personal data by the state (or any of its instrumentalities) for public service delivery as a legitimate use case requiring conformity to standards prescribed by the rules. given this, it becomes even harder to argue that public utility companies stand carved-out from the ambit of the act. </p>
 
-<p> that being said, and while there is no definitive guidance either way, state-owned utilities can potentially avail of the limited exemption from the erasure requirement that is available to all state instrumentalities. </p>
+<p> that being said, and while there is no definitive guidance either way, state utilities can potentially avail of the limited exemption from the erasure requirement that is available to all state instrumentalities. </p>
 
 <p> i suppose the government could theoretically notify these companies as eligible for a generic broader exemption. the current iteration of the rules is silent on who the intended beneficiaries of such exemptions are likely to be. in any case, i would expect ppp agreements executed within the first five years of the act coming into effect to clarify whether service providers are expected to comply with all statutory data protection obligations, notwithstanding the availability of potential exemptions. </p>
