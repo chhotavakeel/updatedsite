@@ -52,8 +52,8 @@ menu:
     url: "/notes"
   - title: "blog"
     url: "/blog"
-  - title: "job board"
-    url: "/job-board"
+  - title: "jobs board"
+    url: "/jobsboard"
 
 # Footer
 footer:
