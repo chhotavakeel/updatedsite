@@ -53,7 +53,7 @@ menu:
   - title: "blog"
     url: "/blog"
   - title: "job board"
-    url: "/jboard"
+    url: "/job-board"
 
 # Footer
 footer:
