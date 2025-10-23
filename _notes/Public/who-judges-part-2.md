@@ -1,6 +1,6 @@
 ---
 feed: show
-title: who-judges-the-judges? pt. 2
+title: who judges the judges? pt. 2
 date: 21-11-2023
 date modified: 23-10-2025
 tags: advice, constitution, judges
