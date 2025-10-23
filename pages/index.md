@@ -10,7 +10,7 @@ i'm currently working at a multilateral development bank, teaching a class on cr
 i greatly enjoy talking to new people. you can always email me at hi[at]chhotavakeel[dot]com.
 
 ---
-some things to keep in mind when contacting me:<br>
+<i>some things to keep in mind when contacting me:</i><br>
 (i) my inbox is my to-do list - please wait for a few days before following up; <br>
 (ii) i greatly prefer asynchronous communication - please don’t consider it rude if i ignore unsolicited and/or unscheduled calls; and <br>
 (iii) please don’t reach out for jobs beyond those already listed on the <a href="job-board">job board</a>.
