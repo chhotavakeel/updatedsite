@@ -4,4 +4,4 @@ layout: Post
 permalink: /notes
 ---
 
-you can access finalised pieces here.
+you can access my finalised pieces here.
