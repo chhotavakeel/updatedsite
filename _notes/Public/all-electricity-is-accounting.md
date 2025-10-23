@@ -39,8 +39,8 @@ assuming you're okay with that, is your decision to couple commodity prices acro
 
 india's securities and exchange board [certainly](https://www.sebi.gov.in/sebi_data/attachdocs/oct-2025/interim_order_ie1.pdf) seems to think so. they also think you shouldn't text your former student about it, let him attend a closed-doors meeting about it, or encourage him, his parents, sibling, friend, friend's siblings, friend's sibling's wife, and astrologer, to buy puts on the country's only listed power exchange right before you announce the move - a week-long trade that earns everyone involved slightly under 20 million dollars in cumulative profits, despite them having never traded in derivatives, that particular stock, or reportedly, any stock, ever before.
 
-the jokes write themselves at this point. the public official in charge of market fairness leaked sensitive information to their *astrologer*? that's two people really bad at their jobs! on the other hand, i suppose that an increase in the level of sophisticated financial crime by the general populace tells you that your country's financial literacy guys are good at their jobs? that's a hell of a silver lining.
+the jokes write themselves at this point. the public official in charge of market fairness leaked confidential information to their *astrologer*? that's two people really bad at their jobs! on the other hand, i suppose that an increase in the level of sophisticated financial crime by the general populace tells you that your country's financial literacy guys are good at their jobs? that's a hell of a silver lining.
 
 [^1]: usually through minimum offtake obligations or take-or-pay contracts.
 
-[^2]: or if it's cheaper produce not-electricity yourself, if your market-procured not-electricity isn't giving you any other benefits.
+[^2]: or if it's cheaper to produce not-electricity yourself, provided that your marketplace-purchased not-electricity isn't giving you any other benefits.
