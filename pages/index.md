@@ -7,5 +7,6 @@ corporate-ish lawyer-person. i write about law, energy, infrastructure, and the 
 <h2>now</h2>
 i'm currently working at a multilateral development bank, teaching a class on critical reasoning and slowly adding older projects to this website.
 <h2>contact</h2>
-you can always reach me at hi[at]chhotavakeel[dot]com.
+i greatly enjoy talking to new people. 
+<br>you can always email me at hi[at]chhotavakeel[dot]com.
 <h2>not legal advice </h2>
