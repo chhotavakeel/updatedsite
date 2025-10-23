@@ -1,11 +1,11 @@
 ---
 layout: Post
 permalink: /
-title: pranav butalia
+title: about
 ---
-corporate-ish lawyer-person. i specialise in energy and infrastructure contracting/procurement. you can access a copy of my resume <a href="/resume">here</a>.
+corporate-ish lawyer-person. i write about law, energy, infrastructure, and the environment.
 <h2>now</h2>
-XX
+i'm currently working at a multilateral development bank, teaching a class on critical reasoning and slowly adding older projects to this website.
 <h2>contact</h2>
-XX
+you can always reach me at hi[at]chhotavakeel[dot]com.
 <h2>not legal advice </h2>
