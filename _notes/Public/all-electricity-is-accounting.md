@@ -39,7 +39,7 @@ assuming you're okay with that, is your decision to couple commodity prices acro
 
 india's securities and exchange board [certainly](https://www.sebi.gov.in/sebi_data/attachdocs/oct-2025/interim_order_ie1.pdf) seems to think so. they also think you shouldn't text your former student about it, let him attend a closed-doors meeting about it, or encourage him, his parents, sibling, friend, friend's siblings, friend's sibling's wife, and astrologer, to buy puts on the country's only listed power exchange right before you announce the move - a week-long trade that earns everyone involved slightly under 20 million dollars in cumulative profits, despite them having never traded in derivatives, that particular stock, or reportedly, any stock, ever before.
 
-the jokes write themselves at this point. the public official responsible for ensuring free and fair markets leaked information to their *astrologer*? that's two people really bad at their jobs! on the other hand, i suppose that growing levels of sophisticated financial crime by unlikely suspects points to a general increase in financial literacy? truly an indicator of the end times.
+the jokes write themselves at this point. the public official responsible for ensuring the free and fair functioning of markets leaked information to their astrologer? that's two people really bad at their jobs! on the other hand, i suppose that growing levels of sophisticated financial crime by unlikely suspects points to a general increase in financial literacy? truly an indicator of the end times.
 
 [^1]: usually through minimum offtake obligations or take-or-pay contracts.
 
