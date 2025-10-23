@@ -37,7 +37,7 @@ preferences:
 # Site Configuration
 title: chhotavakeel
 heading: " chhotavakeel"
-description: "some thoughts on renewable energy (+ social infrastructure) law and policy"
+description: "some writings on law, energy, infrastructure, and policy"
 url: "https://chhotavakeel.com"
 baseurl: ""
 
@@ -57,7 +57,7 @@ menu:
 
 # Footer
 footer:
-  copyright: "© 2025 Pranav Butalia"
+  copyright: "© 2025 chhotavakeel"
   credits:
     enabled: false
     url: "/credits"
