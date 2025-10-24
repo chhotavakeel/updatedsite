@@ -2,12 +2,12 @@
 feed: show
 title: transcript for law, laughter and beyond
 date: 19-11-2023
-date modified: 23-10-2025
+date modified: 24-10-2025
 tags:
   - interviews
   - advice
 ---
-_this is a rough transcript of an interview i did in 2023 for a podcast run by my law school._
+_this is the rough transcript of an interview i did in 2023 for a podcast run by my law school._
 
 ## what drove you to pursue a career in corporate law?
 
@@ -37,7 +37,7 @@ but as someone who does some degree of recruiting for my team - you really don�
 
 exposure. as much as you can get of it. 
 
-[[please read]].
+[[read a lot]].
 
 if you must, watch some movies. Watch twelve angry men and watch gangajal. that cuts a fairly vast swathe across what you can expect to find in the profession.
 
@@ -53,7 +53,7 @@ _also, watch [this](https://www.youtube.com/watch?v=rpujfw4wtkw&pp=yguyyxjlihlvd
 
 ## what is it like working as a projects lawyer? what kind of work and deliverables are there? how is the access to mentorship? is business development taught and carried out at an early stage? what tips do you have for those who want to work in this area? 
 
-trust me, it’s pretty great, else i wouldn’t be able to do it for so long! 
+trust me, it’s pretty great, else i wouldn’t have been able to do it for so long! 
 
 our work is divided into three buckets:
 
