@@ -43,4 +43,4 @@ the jokes write themselves. the public official responsible for overseeing free 
 
 [^1]: usually through minimum offtake obligations or take-or-pay contracts.
 
-[^2]: or if it's cheaper to produce not-electricity yourself, provided that your marketplace-purchased not-electricity isn't giving you any other benefits.
+[^2]: or if it's cheaper to produce not-electricity yourself, provided that your market-procured not-electricity isn't giving you any other benefits.
