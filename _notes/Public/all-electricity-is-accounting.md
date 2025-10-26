@@ -33,13 +33,13 @@ but, if markets exist, so does the incentive to profit from information asymmetr
 (iii) you trade in that security, <br>
 you're guilty of insider trading. don't do this! this is a bad thing!
 
-hypothetically speaking, if you're a sensitive-commodity markets regulator, you'd probably want uniform commodity pricing across marketplaces. this would, however, make all your marketplaces compete on service quality and fees, instead of underlying commodity prices, and undo any network effects that they might enjoy.
+hypothetically speaking, if you're a sensitive-commodity markets regulator, you'd probably want uniform commodity pricing across marketplaces. this would, however, make all your marketplaces start competing on service quality and fees, instead of underlying commodity prices, and wipe out all network effects.
 
 assuming you're okay with that, is your decision to couple commodity prices across marketplaces material non-public information? 
 
 india's securities and exchange board [certainly](https://www.sebi.gov.in/sebi_data/attachdocs/oct-2025/interim_order_ie1.pdf) seems to think so. they also think you shouldn't text your former student about it, let him attend a closed-doors meeting about it, or encourage him, his parents, sibling, friend, friend's siblings, friend's sibling's wife, and astrologer, to buy puts on the country's only listed power exchange right before you announce your move, in a week-long trade that earns the participants slightly under 20 million dollars in cumulative profit despite them having never traded in derivatives, that particular stock, or any stock, ever before.
 
-the jokes write themselves. the public official responsible for overseeing free and fair markets leaked information to their astrologer? that's two people really bad at their jobs! on the other hand, i suppose that sophisticated financial crime being committed by unlikely suspects points to an increase in financial literacy across the board? that's some consolation, i guess!
+the jokes write themselves. the public official responsible for overseeing free and fair markets leaked information to their astrologer? that's two people really bad at their jobs! on the other hand, i suppose that sophisticated financial crime committed by unlikely suspects points to an increase in financial literacy across the board? that's some consolation, i guess!
 
 [^1]: usually through minimum offtake obligations or take-or-pay contracts.
 
