@@ -16,7 +16,7 @@ that's not too bad, i can hear you saying - distribution companies take on deman
 
 and so, distribution companies act like mini-auction houses, matching demand to available, cost-effective, sources of supply. the cheapest electrons get utilised first, followed by the next-cheapest, and so on, until either all demand, or all available supply, gets exhausted. this process repeats itself several times a day.
 
-electron supply prices are, of course, governed by supply agreements with source owners. unfortunately, making contractual obligations subject to the outcome of an auction process reduces them to little more than a gentleman's handshake that says maybe, *should the stars align*, we'll buy some electrons from you. it is therefore, entirely possible that a given set of contracted-for electrons never sees the light of day, so to speak, and so, electron source owners usually try to make sure that they get paid regardless[^1].
+electron supply prices are, of course, governed by supply agreements with electron-source owners. unfortunately, making contractual obligations subject to the outcome of an auction process reduces them to little more than a gentleman's handshake that says maybe, *should the stars align*, we'll buy some electrons from you. it is therefore, entirely possible that a given set of contracted-for electrons never sees the light of day, so to speak, and so, electron source owners usually try to make sure that they get paid regardless[^1].
 
 at this point, we now have three distinct layers of accounting: <br>
 (i) for flowing electrons; <br>
