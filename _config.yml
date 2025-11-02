@@ -50,10 +50,10 @@ ie_css: "/assets/css/ie-target.css"
 menu:
   - title: "notes"
     url: "/notes"
-  - title: "contact"
-    url: "/contact"
   - title: "jobs board"
     url: "/jobsboard"
+  - title: "contact"
+    url: "/contact"
 
 # Footer
 footer:
