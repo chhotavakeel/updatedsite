@@ -4,7 +4,7 @@ permalink: /contact
 content-type: static
 title: contact
 ---
-i greatly enjoy talking to people! <br>
+i greatly enjoy talking to people. <br>
 you can always email me at hello[at]chhotavakeel[dot]com.
 <h2>some things to keep in mind while contacting me</h2>
 (i) my inbox is my to-do list - please wait for a few days before following up; and <br>
