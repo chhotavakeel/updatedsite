@@ -12,7 +12,7 @@ if you think about it, the alcohol manufacturing business is really the getting-
 
 in fact, you don't even need to start your own chain for this - you can just buy one off the market. or can you? things like pub chains exist at the lowest end of the liquidity spectrum, which is probably why you can't walk into a bar and buy it outright.
 
-the delhi high court agrees? last month, it issued an [injunction](https://delhihighcourt.nic.in/app/showlogo/1761044929_ca132dea8300eafe_jis_4432025.pdf/2025) preventing a craft brewery's investors from selling the shares of a pub chain pledged to them. 
+the delhi high court kind of agrees? last month, it issued an [injunction](https://delhihighcourt.nic.in/app/showlogo/1761044929_ca132dea8300eafe_jis_4432025.pdf/2025) preventing a craft brewery's investors from selling the shares of a pub chain pledged to them. 
 
 in theory, obtaining an injunction - an emergency order preventing a party from enforcing its rights - requires showing that:<br>
 (i) the other party likely lacks the right to proceed against you; <br>
