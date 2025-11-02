@@ -37,7 +37,7 @@ preferences:
 # Site Configuration
 title: chhotavakeel
 heading: " chhotavakeel"
-description: "i write on law, energy, infrastructure, and policy"
+description: "notes on biglaw by a small lawyer"
 url: "https://chhotavakeel.com"
 baseurl: ""
 
@@ -50,8 +50,6 @@ ie_css: "/assets/css/ie-target.css"
 menu:
   - title: "notes"
     url: "/notes"
-  - title: "blog"
-    url: "/blog"
   - title: "jobs board"
     url: "/jobsboard"
 
@@ -60,8 +58,8 @@ footer:
   copyright: "© 2025, chhotavakeel."
   credits:
     enabled: false
-    url: "/credits"
-    text: "Credits"
+    url: "/colophon"
+    text: "colophon"
 
 # Collections
 collections:
