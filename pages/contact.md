@@ -1,6 +1,7 @@
 ---
 layout: Post
 permalink: /contact
+content-type: static
 title: contact
 ---
 i greatly enjoy talking to people. you can always email me at hello[at]chhotavakeel[dot]com. <br><br> 
