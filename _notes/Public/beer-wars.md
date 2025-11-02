@@ -25,4 +25,4 @@ in practice, getting an injunction mainly requires you to establish irreparable 
 
 and so, if you're the brewery's lawyers, you should tell the court that forcing your client to part with an irreplaceable and highly illiquid asset that's currently responsible for 35% of their top line will lead to even more payment defaults. this is a great line of argument to take! they should hang it in the louvre, now that there's space.
 
-[^1]: typically on account of asset rarity.
+[^1]: typically on account of difficulties in asset valuation.
