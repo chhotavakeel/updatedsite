@@ -1,7 +1,7 @@
 ---
-title: writings
+title: notes
 layout: Post
 permalink: /notes
 ---
 
-you can access my finalised pieces here.
+you can access all my notes here.
