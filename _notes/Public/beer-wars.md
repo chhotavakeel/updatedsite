@@ -21,6 +21,6 @@ now, interim injunctions - court orders preventing parties from enforcing their 
 
 the first two criteria have always seemed redundant to me. there's obviously a legal dispute between the parties - that's why they're in court! and the balance of convenience will always lie with the party approaching the court because the other one's taking a step against it.
 
-and so, interim injunctions are contigent on whether you can show irreparable injury. if you're a plaintiff's lawyer, you want to be able to say that forcing your client to part with a highly illiquid and irreplaceable asset that's responsible for 35% of their top line will lead to even more payment defaults! this is a very good argument! they should hang it in the louvre, now that there's space.
+and so, interim injunctions are contigent on whether you can show irreparable injury. if you're a plaintiff's lawyer, you want to be able to tell the court that forcing your client to part with a highly illiquid and irreplaceable asset - one that's responsible for 35% of their top line - will lead to even more payment defaults! this is a very good argument! they should hang it in the louvre, now that there's space.
 
 [^1]: usually, you'd say that their actions are premature.
