@@ -12,7 +12,7 @@ if you think about it, the alcohol manufacturing business is really the getting-
 
 in fact, you don't even need to start your own chain for this - you can just buy one off the market. or can you? things like pub chains exist at the lowest end of the liquidity spectrum, which is probably why you can't walk into a bar and buy it outright.
 
-the delhi high court [sort](https://delhihighcourt.nic.in/app/showlogo/1761044929_ca132dea8300eafe_jis_4432025.pdf/2025) of agrees? it recently stopped a craft brewery's investors from creating any third-party interests in the shares of a pub chain that were pledged to them. 
+the delhi high court [sort](https://delhihighcourt.nic.in/app/showlogo/1761044929_ca132dea8300eafe_jis_4432025.pdf/2025) of agrees? it recently stopped a craft brewery's investors from selling the shares of a pub chain that were pledged to them. 
 
 now, court orders preventing parties from enforcing their interests against you require: <br>
 (i) a *prima facie* case, i.e., that the other party likely lacks legal basis to proceed against you[^1]; <br>
@@ -21,6 +21,6 @@ now, court orders preventing parties from enforcing their interests against you 
 
 the first two criteria have always seemed redundant to me. there's obviously a legal dispute between the parties - that's why they're in court! and the balance of convenience always lies with the party approaching the court, because the other one's proceeding against it.
 
-and so, preliminary injunctions really depend on whether you can establish irreparable injury. if you're a plaintiff's lawyer, you want to be able to tell the court that forcing your client to part with an irreplaceable and highly illiquid asset - one that's responsible for 35% of their top line - will lead to even more payment defaults! this is a very good argument to make! they should hang it in the louvre, now that there's space.
+and so, preliminary injunctions really depend on whether you can establish irreparable injury. if you're the brewery's lawyer, you want to be able to tell the court that forcing your client to part with an irreplaceable and highly illiquid asset - one that's responsible for 35% of their top line - will lead to even more payment defaults! this is a very good argument to make! they should hang it in the louvre, now that there's space.
 
 [^1]: usually, you'd say that their actions are premature.
