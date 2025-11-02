@@ -19,8 +19,10 @@ in theory, obtaining an injunction - an emergency order preventing a party from 
 (ii) you'll suffer more if the right is exercised than your counterparty will if it's not; and<br>
 (iii) irreparable losses will be caused to you if the injunction isn't granted.
 
-honestly, i find these criteria a little strange. determining whether one party has the right to proceed against another is sort of the entire point of legal proceedings. there's obviously a dispute here - that's why the parties are in court! and the second and third criteria seem like tautologies? 
+honestly, i find these criteria a little strange. determining whether one party has the right to proceed against another is sort of the entire point of legal proceedings? and the second and third criteria seem like tautologies? 
 
-in practice, getting an injunction mainly requires you to establish irreparable harm. a useful rule of thumb is that if any loss can be quantified, then it's likely not irreparable because you can always be compensated for it in monetary terms. conversely, if you can't ascribe a dollar amount to a loss, then it's irreparable! 
+in practice, getting an injunction mainly requires you to establish irreparable harm. a useful rule of thumb is that if any loss can be quantified, then it's likely not irreparable because you can always be compensated for it in monetary terms. this rules out getting injunctions for things like money, liquid securities, and debts. conversely, if you can't put a dollar amount to your loss[^1], you're in luck! i hope you own a nascar team, one-of-a-kind diamond, or twitter.
 
-and so, if you're a plaintiff's lawyer, you want to be able to tell the court that forcing your client to part with an irreplaceable and highly illiquid asset - one that's currently responsible for 35% of their top line - will lead to even more payment defaults! this is a great argument to make! they should hang it in the louvre, now that there's space.
+and so, if you're the brewery's lawyer, you should tell the court that forcing your client to part with an irreplaceable and highly illiquid asset - one that's currently responsible for 35% of their top line - will lead to even more payment defaults! this is a great line of argument to take! they should hang it in the louvre, now that there's space.
+
+[^1]: typically on account of asset rarity.
