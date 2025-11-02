@@ -14,7 +14,7 @@ in fact, you don't even need to start your own chain for this - you can just buy
 
 the delhi high court kind of agrees? last month, it issued an [injunction](https://delhihighcourt.nic.in/app/showlogo/1761044929_ca132dea8300eafe_jis_4432025.pdf/2025) preventing a craft brewery's investors from selling shares of a pub chain that were pledged to them. 
 
-in theory, obtaining an injunction - an emergency order preventing a party from enforcing its rights - requires showing that:<br>
+in theory, getting an injunction - an emergency order preventing a party from enforcing its rights - requires showing that:<br>
 (i) the other party likely lacks the right to proceed against you; <br>
 (ii) you'll suffer more if the right is exercised than your counterparty will if it's not; and<br>
 (iii) you'll be put to irreparable harm if the injunction isn't granted.
