@@ -17,7 +17,7 @@ the delhi high court [sort](https://delhihighcourt.nic.in/app/showlogo/176104492
 now, court orders preventing parties from enforcing their interests against you require: <br>
 (i) a *prima facie* case, i.e., that the other party likely lacks legal basis to proceed against you[^1]; <br>
 (ii) the balance of convenience to lie in your favour - effectively that you'll suffer more if a right is exercised than your counterparty will if it's not; and <br>
-(iii) that irreparable harm will be caused unto you if an injunction isn't granted.
+(iii) that irreparable harm will be caused to you if an injunction isn't granted.
 
 the first two criteria have always seemed redundant to me. there's obviously a legal dispute between the parties - that's why they're in court! and the balance of convenience always lies with the party approaching the court, because the other one's proceeding against it!
 
