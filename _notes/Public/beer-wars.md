@@ -21,6 +21,6 @@ in theory, obtaining an injunction - an emergency order preventing a party from 
 
 honestly, i find these criteria a little strange. determining whether one party has the right to proceed against another is sort of the entire point of legal proceedings. and the second and third criteria seem like tautologies? 
 
-in practice, getting an injunction mainly requires you to establish irreparable harm. here, a useful rule of thumb is that if any loss can be quantified, then it's not irreparable because you can be compensated for it in monetary terms. conversely, if you can't ascribe a dollar amount to a loss, then it's likely irreparable! and so, as the brewery's lawyer, telling the court that enforcing the pledge will force your client to part with an irreplaceable and highly illiquid asset is a great argument! they should hang it in the louvre, now that there's space.
+in practice, getting an injunction mainly requires you to establish irreparable harm. here, a useful rule of thumb is that if any loss can be quantified, then it's not irreparable because you can be compensated for it in monetary terms. conversely, if you can't ascribe a dollar amount to a loss, then it's likely irreparable! and so, as the brewery's lawyer, telling the court that enforcing the pledge will force your client to part with an irreplaceable and highly illiquid asset is a good move! they should hang this argument in the louvre, now that there's space.
 
 [^1]: usually, you argue that its actions are premature.
