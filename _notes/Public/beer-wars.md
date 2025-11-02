@@ -8,7 +8,7 @@ tags:
   - injunctions
 ---
 
-if you think about it, the alcohol manufacturing business is really the getting-alcohol-into-bloodstreams business with added paperwork. and logistics. moving down the value chain can reduce these constraints, and so, if you're a brewing company, you should probably run a chain of pubs on the side. the pubs provide you with a captive market for your brews as well as a diversified income stream.
+if you think about it, the alcohol manufacturing business is really the getting-alcohol-into-bloodstreams business with added paperwork and logistics. moving down the value chain can reduce these constraints, and so, if you're a brewing company, you should probably run a chain of pubs on the side. the pubs provide you with a captive market for your brews as well as a diversified income stream.
 
 in fact, you don't even need to start your own chain for this - you can just buy one off the market. or can you? things like pub chains exist at the lowest end of the liquidity spectrum, which is probably why you can't walk into a bar and buy it outright.
 
