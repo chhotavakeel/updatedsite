@@ -52,7 +52,7 @@ menu:
     url: "/notes"
   - title: "contact"
     url: "/contact"
-    - title: "jobs board"
+  - title: "jobs board"
     url: "/jobsboard"
 
 # Footer
